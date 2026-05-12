@@ -80,7 +80,6 @@
 
 ---
 
-```md
 # 🚀 Featured Projects
 
 ---
@@ -212,8 +211,6 @@
 `Python` `LLMs` `LangChain` `Flask`
 
 ---
-```
-
 
 ---
 
