@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nelluri Dolendra Sai Teja</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | 🤖 Machine Learning Enthusiast | ⚡ DevOps Learner
+🚀 Full Stack Developer | 🤖 Machine Learning Enthusiast | ⚡ DevOps Learner | 🧠 Generative AI Explorer
 </h3>
 
 <p align="center">
