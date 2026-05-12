@@ -1,5 +1,5 @@
-````md
-<h1 align="center">Hi 👋, I'm Dolendra</h1>
+
+<h1 align="center">Hi 👋, I'm Nelluri Dolendra Sai Teja</h1>
 
 <h3 align="center">
 🚀 Full Stack Developer | 🤖 Machine Learning Enthusiast | ⚡ DevOps Learner
@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dolendra-Dolendra&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Dolendra&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -50,19 +50,19 @@
 
 <p align="left">
 
-<a href="https://github.com/Dolendra-Dolendra" target="_blank">
+<a href="https://github.com/Dolendra" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/dolendranelluri" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+<a href="https://instagram.com/dolendra_n13" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:dolendracse@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -218,9 +218,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dolendra-Dolendra&show_icons=true&theme=tokyonight&hide_border=true" height="190"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dolendra&show_icons=true&theme=tokyonight&hide_border=true" height="190"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dolendra-Dolendra&theme=tokyonight&hide_border=true" height="190"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dolendra&theme=tokyonight&hide_border=true" height="190"/>
 
 </p>
 
@@ -229,7 +229,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dolendra-Dolendra&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dolendra&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -237,7 +237,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dolendra-Dolendra&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dolendra&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 </p>
 
 ---
@@ -266,7 +266,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dolendra-Dolendra&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dolendra&theme=tokyonight"/>
 
 </p>
 
