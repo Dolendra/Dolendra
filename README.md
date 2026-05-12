@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Machine+Learning+Engineer;MERN+Stack+Developer;DevOps+Explorer;Building+Real+World+Projects;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Generative+AI;Machine+Learning+Engineer;MERN+Stack+Developer;DevOps+Explorer;Building+Real+World+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -19,30 +19,39 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+
 # 💫 About Me
 
-🎓 B.Tech CSE Student at **RGUKT Basar**
+🎓 B.Tech Computer Science and Engineering Student at **RGUKT Basar**
 
 💻 Passionate about:
+
 - Full Stack Development
 - Machine Learning
+- Deep Learning
+- Generative AI
 - DevOps
 - System Design
 - Problem Solving
 
 🚀 Currently Building:
-- **SkillUp AI** → Personalized Learning Platform
-- Full Stack MERN Applications
-- AI-Powered Projects
+
+- AI-Powered Full Stack Applications
+- Scalable MERN Stack Projects
+- Intelligent Automation Systems
+- Real-World AI Solutions
 
 📚 Currently Learning:
-- DevOps & Cloud
-- Advanced MERN Stack
-- ML Deployment
-- Scalable Backend Systems
 
-⚡ Fun Fact:
-> I love building projects more than watching tutorials.
+- Generative AI & LLM Applications
+- DevOps & Cloud Technologies
+- Advanced Backend Architecture
+- ML Model Deployment
+- Scalable System Design
+
+✨ Fun Fact:
+
+> I love turning ideas into real-world AI-powered applications.
 
 ---
 
